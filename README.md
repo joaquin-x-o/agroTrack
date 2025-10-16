@@ -2,13 +2,15 @@
 
 AgroTrack - Portal Web Interno
 
-Alumno: Joaquín Nicolás Palacios
-DNI: 44818868
-email: jpalacios868@alumnos.iua.edu.ar
+## Datos
+- Alumno: Joaquín Nicolás Palacios
+- DNI: 44818868
+- email: jpalacios868@alumnos.iua.edu.ar
 
+## Proyecto
 AgroTrack es un portal web interno para una pyme agroindustrial ficticia. Permite consultar información básica mediante páginas estáticas, iniciar sesión de demostración y enviar formularios de contacto que se guardan en un archivo local. Está desarrollado con Node.js y sus  módulos nativos como http y fs/promises.
 
-Para ejecutar el servidor se puede usar tanto node server.js como npm start. El puerto configurado es 3000, según el código.
+Para ejecutar el servidor se puede usar tanto node server.js como npm start. El puerto configurado es 3000.
 
 ## Rutas existentes del proyecto
 
