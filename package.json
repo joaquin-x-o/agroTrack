@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "node": "^24.10.0"
+  },
+  "name": "actividadintegradorauno",
+  "version": "1.0.0",
+  "description": "actividad integradora uno sobre crear un MVP de un portal web interno",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Joaquín Nicolas Palacios",
+  "license": "ISC"
+}
